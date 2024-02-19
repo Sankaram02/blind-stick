@@ -9,5 +9,4 @@
 
 🔹 This sophisticated amalgamation of IoT technology, voice command interfaces, and emergency alert features positions the Blind Stick as a progressive and invaluable tool for individuals navigating the challenges of visual impairment.
 
-[Screenshot 2024-02-19 195927](https://github.com/Sankaram02/blind-stick/assets/119692486/15e7e273-5743-4317-8693-50cb2c19f008)
-
+![Screenshot 2024-02-19 195927](https://github.com/Sankaram02/blind-stick/assets/119692486/820d40e8-7b99-42d4-b4ef-3d71960cd972)
